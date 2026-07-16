@@ -9,10 +9,17 @@
 ## 🙋‍♂️ 소개
 
 - 🔭 **객체 탐지 연구** — YOLO 기반 위조 로고 탐지 연구를 진행하고 있어요
-- 🛰️ **AI Agent** — 주차장 다중 CCTV를 관제하는 중앙 AI 에이전트를 개발하고 있어요
-- 🧠 **VLM**(Vision-Language Model)에 관심이 많습니다
-- ⚾ LG Aimers × LG 트윈스 해커톤에서 투구 제구 예측 모델을 만들었어요
+- 🧠 **VLM**(Vision-Language Model)과 **AI Agent**에 관심이 많습니다
 - 📫 연락처: [oks706@gmail.com](mailto:oks706@gmail.com)
+
+## 🔭 Projects
+
+| 프로젝트 | 설명 | 기술 | 상태 |
+|---|---|---|:---:|
+| 🅿️ **주차장 CCTV Agent** | 주차장 다중 CCTV 영상을 관제·분석하는 중앙 AI 에이전트 | Python · VLM · Multi-Agent | 🚧 진행 중 |
+| ⚾ **LG Aimers × LG 트윈스 해커톤** | 투수의 다음 투구 제구 성공 확률 예측 모델 | Python · ML | ✅ 완료 |
+
+> 🔒 비공개 프로젝트는 공개 전환 시 저장소 링크가 추가됩니다.
 
 ## 🔧 기술 스택
 
