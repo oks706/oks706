@@ -33,6 +33,12 @@
 
 </div>
 
+## 🎓 수료 & 자격증
+
+| 구분 | 이름 | 기관 | 시기 | 인증 |
+|:---:|---|---|:---:|:---:|
+| 수료 | AI Fundamentals | Google · Coursera | 2026.07 | [✅ 확인](https://coursera.org/verify/GPTT7C0TKJA9) |
+
 ## 📊 GitHub 스탯
 
 <div align="center">
