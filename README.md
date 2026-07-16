@@ -37,10 +37,11 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=oks706&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
+<img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
 <img height="170" src="https://streak-stats.demolab.com?user=oks706&theme=tokyonight&hide_border=true&locale=ko" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oks706&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="170" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" />
+<img height="170" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" />
 
 </div>
 
