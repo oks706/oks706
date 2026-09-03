@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ 소개
 
-- 🔭 **객체 탐지 연구** — YOLO 기반 위조 로고 탐지 연구를 진행하고 있어요
+- 🔭 **객체 탐지 연구** — YOLO 기반 위조 로고 탐지기 [LogoGuard](https://github.com/oks706/logoguard)를 만들어 공개했어요
 - 🧠 **VLM**(Vision-Language Model)과 **AI Agent**에 관심이 많습니다
 - 📫 연락처: [oks706@gmail.com](mailto:oks706@gmail.com)
 
@@ -16,8 +16,9 @@
 
 | 프로젝트 | 설명 | 기술 | 상태 |
 |---|---|---|:---:|
+| 🛡️ **[LogoGuard](https://github.com/oks706/logoguard)** | 진품 로고만 학습해 위조를 잡아내는 One-Class 앙상블 탐지기. YOLO26로 로고를 찾고 EfficientAD·FE-CLIP 앙상블로 이상도를 판정합니다 | PyTorch · YOLO26 · CLIP · Gradio | ✅ [v0.1.0](https://github.com/oks706/logoguard/releases/tag/v0.1.0) 공개 |
 | 🅿️ **주차장 CCTV Agent** | 주차장 다중 CCTV 영상을 관제·분석하는 중앙 AI 에이전트 | Python · VLM · Multi-Agent | 🚧 진행 중 |
-| ⚾ **LG Aimers × LG 트윈스 해커톤** | 투수의 다음 투구 제구 성공 확률 예측 모델 | Python · ML | 🚧 진행 중 |
+| ⚾ **LG Aimers × LG 트윈스 해커톤** | 투수의 다음 투구 제구 성공 확률 예측 모델 | Python · ML | ✅ 완료 |
 
 > 🔒 비공개 프로젝트는 공개 전환 시 저장소 링크가 추가됩니다.
 
@@ -29,6 +30,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=ultralytics&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
