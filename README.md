@@ -44,6 +44,7 @@
 
 | 구분 | 이름 | 기관 | 시기 | 인증 |
 |:---:|---|---|:---:|:---:|
+| 수료 | LG Aimers 9기 (Phase 1&2) | LG경영개발원 AI연구원 · 고용노동부 | 2026.09 | - |
 | 수료 | AI Fundamentals | Google · Coursera | 2026.07 | [✅ 확인](https://coursera.org/verify/GPTT7C0TKJA9) |
 | 수료 | AI for Brainstorming and Planning | Google · Coursera | 2026.07 | [✅ 확인](https://www.coursera.org/account/accomplishments/verify/5CODHCP4W6KX) |
 | 수료 | GameAIfy Contest (AI 게임 제작 공모전) | 앵커노드 | 2025.09 | - |
