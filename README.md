@@ -2,12 +2,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&text=Minto&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20·%20Computer%20Vision%20·%20Agent&descSize=22&descAlignY=58)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C9EF8&center=true&vCenter=true&width=520&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+Minto%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%91%8B;AI+%C2%B7+Computer+Vision%EC%9D%84+%EA%B3%B5%EB%B6%80%ED%95%A9%EB%8B%88%EB%8B%A4;YOLO+%C2%B7+VLM+%C2%B7+Multi-CCTV+Agent)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C9EF8&center=true&vCenter=true&width=520&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+Minto%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%91%8B;%EB%94%A5%EB%89%B4%EB%A1%9C%ED%85%8D+AI+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%92%BC;AI+%C2%B7+Computer+Vision%EC%9D%84+%EA%B0%9C%EB%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4;YOLO+%C2%B7+VLM+%C2%B7+Multi-CCTV+Agent)](https://git.io/typing-svg)
 
 </div>
 
 ## 🙋‍♂️ 소개
 
+- 💼 **딥뉴로텍** AI 개발자로 근무 중 — 주차장 다중 CCTV AI Agent를 개발하고 있어요
 - 🔭 **객체 탐지 연구** — YOLO 기반 위조 로고 탐지기 [LogoGuard](https://github.com/oks706/logoguard)를 만들어 공개했어요
 - 🧠 **VLM**(Vision-Language Model)과 **AI Agent**에 관심이 많습니다
 - 📫 연락처: [oks706@gmail.com](mailto:oks706@gmail.com)
@@ -17,8 +18,10 @@
 | 프로젝트 | 설명 | 기술 | 상태 |
 |---|---|---|:---:|
 | 🛡️ **[LogoGuard](https://github.com/oks706/logoguard)** | 진품 로고만 학습해 위조를 잡아내는 One-Class 앙상블 탐지기. YOLO26로 로고를 찾고 EfficientAD·FE-CLIP 앙상블로 이상도를 판정합니다 | PyTorch · YOLO26 · CLIP · Gradio | ✅ [v0.1.0](https://github.com/oks706/logoguard/releases/tag/v0.1.0) 공개 |
-| 🅿️ **주차장 CCTV Agent** | 주차장 다중 CCTV 영상을 관제·분석하는 중앙 AI 에이전트 | Python · VLM · Multi-Agent | 🚧 진행 중 |
+| 🅿️ **주차장 CCTV Agent** <sub>(딥뉴로텍)</sub> | 주차장 다중 CCTV 영상을 관제·분석하는 중앙 AI 에이전트. OCR 번호판 인식, 카메라 간 차량 전역 ID 추적 | Python · VLM · OCR · Multi-Agent | 🚧 진행 중 |
+| 🎬 **[민까행 AI 팀 소개영상](https://github.com/oks706/minkkahaeng-ai-intro)** | TRAITHON 2026 출품. 클라우드 API 없이 게이밍 PC 한 대의 로컬 AI만으로 캐릭터·애니메이션·음악·한국어 더빙까지 만드는 30초 영상 파이프라인 | Z-Image · Wan2.2 · Stable Audio · Qwen3 TTS | ✅ 공개 |
 | ⚾ **LG Aimers × LG 트윈스 해커톤** | 투수의 다음 투구 제구 성공 확률 예측 모델 | Python · ML | ✅ 완료 |
+| 📅 **[Hufs_Time](https://github.com/oks706/Hufs_Time)** | 한국외대 수강 시간표 빌더. 강의 데이터 스크래핑 후 시간표 조합 | Vue · Node.js · PostgreSQL · Docker/K8s | ✅ 완료 |
 
 > 🔒 비공개 프로젝트는 공개 전환 시 저장소 링크가 추가됩니다.
 
@@ -31,12 +34,18 @@
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=ultralytics&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
