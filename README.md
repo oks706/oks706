@@ -2,13 +2,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&text=Minto&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20·%20Computer%20Vision%20·%20Agent&descSize=22&descAlignY=58)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C9EF8&center=true&vCenter=true&width=520&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+Minto%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%91%8B;%EB%94%A5%EB%89%B4%EB%A1%9C%ED%85%8D+AI+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%92%BC;AI+%C2%B7+Computer+Vision%EC%9D%84+%EA%B0%9C%EB%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4;YOLO+%C2%B7+VLM+%C2%B7+Multi-CCTV+Agent)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C9EF8&center=true&vCenter=true&width=520&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+Minto%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%91%8B;%EB%94%A5%EB%89%B4%EB%A1%9C%ED%85%8D+AI+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%92%BC;%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98+%EC%BD%94%EB%94%A9%EC%A1%B4+%EC%A1%B0%EA%B5%90%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%A7%91%E2%80%8D%F0%9F%8F%AB;AI+%C2%B7+Computer+Vision%EC%9D%84+%EA%B0%9C%EB%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4;YOLO+%C2%B7+VLM+%C2%B7+Multi-CCTV+Agent)](https://git.io/typing-svg)
 
 </div>
 
 ## 🙋‍♂️ 소개
 
 - 💼 **딥뉴로텍** AI 개발자로 근무 중 — 주차장 다중 CCTV AI Agent를 개발하고 있어요
+- 🧑‍🏫 한국외대 「알고리즘설계와해석」 **코딩존 조교** — 실습용 인터랙티브 발표자료를 직접 만들어 진행해요
 - 🔭 **객체 탐지 연구** — YOLO 기반 위조 로고 탐지기 [LogoGuard](https://github.com/oks706/logoguard)를 만들어 공개했어요
 - 🧠 **VLM**(Vision-Language Model)과 **AI Agent**에 관심이 많습니다
 - 📫 연락처: [oks706@gmail.com](mailto:oks706@gmail.com)
@@ -19,6 +20,10 @@
 |---|---|---|:---:|
 | 🛡️ **[LogoGuard](https://github.com/oks706/logoguard)** | 진품 로고만 학습해 위조를 잡아내는 One-Class 앙상블 탐지기. YOLO26로 로고를 찾고 EfficientAD·FE-CLIP 앙상블로 이상도를 판정합니다 | PyTorch · YOLO26 · CLIP · Gradio | ✅ [v0.1.0](https://github.com/oks706/logoguard/releases/tag/v0.1.0) 공개 |
 | 🅿️ **주차장 CCTV Agent** <sub>(딥뉴로텍)</sub> | 주차장 다중 CCTV 영상을 관제·분석하는 중앙 AI 에이전트. OCR 번호판 인식, 카메라 간 차량 전역 ID 추적 | Python · VLM · OCR · Multi-Agent | 🚧 진행 중 |
+| 🎮 **한국어 명령 파서** <sub>(딥러닝 팀 프로젝트)</sub> | 한국어 음성·텍스트 명령을 게임 API 호출열로 바꾸는 언어모델 파트 담당. 토크나이저와 110M GPT 사전학습부터 ONNX 내보내기, Unity C# 파서까지 직접 구현해 서버 없이 게임 안에서 동작 | Python · GPT · ONNX · Unity(C#) · Whisper | 🚧 진행 중 |
+| 🏛️ **현장형 민원 분류·보류** <sub>(팀 연구)</sub> | 민원 음성을 Whisper로 받아 적고 분야를 분류하되, 애매하거나 지원하지 않는 요청은 보류하는 선택적 분류. KLUE-RoBERTa·Granite 비교, Jetson Orin Nano에서 지연·메모리·에너지 실측 | PyTorch · Whisper · KLUE-RoBERTa · TensorRT · Jetson | 🚧 진행 중 |
+| 🧑‍🏫 **[코딩존 실습 발표자료](https://github.com/oks706/algorithm-coding-zone)** | 정렬·탐색·힙·Huffman·Kruskal을 단계별 애니메이션과 시뮬레이터로 보여주는 HTML 슬라이드. 오프라인 글꼴 내장 | HTML · JavaScript · Python | 🚧 4회차 공개 |
+| 🗣️ **AI 발음 코치 UI/UX 제안** | AI 외국어 학습 앱 디자인 개선 제안 공모전 출품용. 따라 말하기 → 억양 비교·항목별 점수 → 단어 교정 팁 → 복습으로 이어지는 발음 학습 흐름을 HTML 프로토타입과 기획서로 제안 | HTML · JavaScript · UX 기획 | 🚧 진행 중 |
 | 🎬 **[민까행 AI 팀 소개영상](https://github.com/oks706/minkkahaeng-ai-intro)** | TRAITHON 2026 출품. 클라우드 API 없이 게이밍 PC 한 대의 로컬 AI만으로 캐릭터·애니메이션·음악·한국어 더빙까지 만드는 30초 영상 파이프라인 | Z-Image · Wan2.2 · Stable Audio · Qwen3 TTS | ✅ 공개 |
 | ⚾ **LG Aimers × LG 트윈스 해커톤** | 투수의 다음 투구 제구 성공 확률 예측 모델 | Python · ML | ✅ 완료 |
 | 📅 **[Hufs_Time](https://github.com/oks706/Hufs_Time)** | 한국외대 수강 시간표 빌더. 강의 데이터 스크래핑 후 시간표 조합 | Vue · Node.js · PostgreSQL · Docker/K8s | ✅ 완료 |
@@ -36,8 +41,11 @@
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
